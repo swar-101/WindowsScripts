@@ -3,7 +3,7 @@ REM Vault Push Script for Markdown Files
 
 echo Pushing updates to Vault...
 
-cd C:\path\to\your\vault\repository
+cd D:\knowledge-vault\vault
 
 REM Ensure you're on the correct branch (adjust to your setup)
 git checkout main
