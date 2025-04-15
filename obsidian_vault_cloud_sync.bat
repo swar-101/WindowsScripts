@@ -24,5 +24,5 @@ git commit -m "Update vault"
 REM Push the changes to the GitHub repository
 git push origin main
 
-echo Vault pushed to GitHub successfully!
+echo Local Obsidian Vault pushed to GitHub successfully!
 pause
